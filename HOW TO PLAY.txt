@@ -1,0 +1,9 @@
+KillMyself is a project made in Keimyung University in Daegu in South Korea.
+
+The goal was to create a 3d action game using Unity3D and by team of 5.
+
+Me and my team set on KillMyself, the story of a robot capsule who has to threw himself in a volcano.
+
+To play make sure that Unity - Mid-Term - 7012769.exe and Unity - Mid-Term - 7012769_Data are in the same folder and double click Unity - Mid-Term - 7012769.exe
+
+Enjoy!
